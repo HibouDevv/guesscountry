@@ -129,7 +129,6 @@ const countries = [
     { names: ["malaysia"], flag: "https://flagcdn.com/my.svg" },
     { names: ["mozambique"], flag: "https://flagcdn.com/mz.svg" },
     { names: ["namibia"], flag: "https://flagcdn.com/na.svg" },
-    { names: ["new caledonia","newcaledonia"], flag: "https://flagcdn.com/nc.svg" },
     { names: ["niger"], flag: "https://flagcdn.com/ne.svg" },
     { names: ["nigeria"], flag: "https://flagcdn.com/ng.svg" },
     { names: ["nicaragua"], flag: "https://flagcdn.com/ni.svg" },
